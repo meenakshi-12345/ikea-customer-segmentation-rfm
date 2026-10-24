@@ -76,12 +76,14 @@ Segment rules are applied in the order shown above.
 **RFM Analysis (Segment):** segment performance summary with average R, F and M scores, average customer value, and churn % trends.
 
 
-<img width="796" height="525" alt="Screenshot 2026-10-24 114644" src="https://github.com/user-attachments/assets/5d0bcb7f-ab93-404a-9203-94f56ce650af" />
+<img width="813" height="523" alt="Screenshot 2026-10-24 164000" src="https://github.com/user-attachments/assets/ef4a2d40-8024-487c-8f0f-cd638a04ef3e" />
+
 
 **RFM Analysis (Country):** country-level customers, revenue and RFM scores, top 5 countries by average customer value, and churn % trends.
 
 
-<img width="785" height="523" alt="Screenshot 2026-10-24 114703" src="https://github.com/user-attachments/assets/814a4e28-a93b-47e2-b96e-9d0c48dff884" />
+<img width="785" height="487" alt="Screenshot 2026-10-24 114703" src="https://github.com/user-attachments/assets/fa1c9705-0efe-4429-b3b1-8a5e993a22e5" />
+
 
 
 ## Suggested Business Actions
