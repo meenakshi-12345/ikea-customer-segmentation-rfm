@@ -122,5 +122,7 @@ ikea-customer-segmentation-rfm/
 ## Author
 
 **Meenakshi Rajpurohit**
-B.Tech in Computer Science Engineering, Government Engineering College, Bikaner
-CONNECT : imeenakshii28@gmail.com
+B.Tech in Computer Science Engineering
+Government Engineering College, Bikaner
+
+CONNECT: imeenakshii28@gmail.com
